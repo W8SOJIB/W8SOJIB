@@ -1,4 +1,4 @@
-<a href="https://discord.gg/pochita"><img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/282281670_112358514813073_6131772736844176816_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=GxRW0pyG4sIAX8Oyuro&_nc_ht=scontent.fdac24-2.fna&oh=00_AfA9ES514oJCo4YQs2wQCLAxyKkLl_jjYDbgdQYcpqCSuQ&oe=64AD0F9D" width="100%" height="auto"/></a>
+<a href="https://discord.gg/pochita"><img src="https://raw.githubusercontent.com/W8SOJIB/W8SOJIB/main/W8TeamBanner.jpg" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
