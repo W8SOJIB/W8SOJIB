@@ -1,6 +1,6 @@
-<a href="https://discord.gg/pochita"><img src="https://raw.githubusercontent.com/W8SOJIB/W8SOJIB/main/W8TeamBanner.jpg" width="100%" height="auto"/></a>
+<a href="https://discord.gg/pochita"><img src="https://raw.githubusercontent.com/W8SOJIB/W8SOJIB/main/W8TeamBanners.jpg" width="100%" height="auto"/></a>
 <p align="center">
-  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@W8TeamSB"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/NezukoSocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
