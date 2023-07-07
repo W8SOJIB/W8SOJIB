@@ -10,12 +10,8 @@
 </p>
 
 <br/>
-
 <p>
-  
-
 <div>
-<details>
   <summary>🧑 More about me</summary>
 
 - 🔭 I’m currently on a journey to build **great** things
@@ -24,11 +20,11 @@
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+- 👨‍💻 All of my projects are available at [W8Team](https://t.me/W8TeamSB/)
 
-- 💬 Ask me about **open source, web development, and community management**
+- 💬 Ask me about **Red Hacking,Bot Expart, Android Moding Expart and community management**
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **contact Me Telegram @W8SOJIB**
 
 </details>
   
