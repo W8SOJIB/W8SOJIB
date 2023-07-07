@@ -1,10 +1,10 @@
 <a href="https://discord.gg/pochita"><img src="https://raw.githubusercontent.com/W8SOJIB/W8SOJIB/main/W8TeamBanners.jpg" width="100%" height="auto"/></a>
 <p align="center">
-  <a href="https://www.youtube.com/@W8TeamSB"><img width="100px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@W8TeamSB"><img width="50px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/W8TeamSB"><img width="100px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/W8SOJIB/W8SOJIB/main/vecteezy_telegram-logo-png-transparent_17221839_396.png"/></a>
+  <a href="https://t.me/W8TeamSB"><img width="50px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/W8SOJIB/W8SOJIB/main/vecteezy_telegram-logo-png-transparent_17221839_396.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://facebook.com/W8Vai" alt="Join our community"><img width="100px" src="https://raw.githubusercontent.com/W8SOJIB/W8SOJIB/main/pngwing.com.png"/></a>
+  <a href="https://facebook.com/W8Vai" alt="Join our community"><img width="50px" src="https://raw.githubusercontent.com/W8SOJIB/W8SOJIB/main/pngwing.com.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
