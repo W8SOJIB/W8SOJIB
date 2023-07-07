@@ -13,7 +13,7 @@
 
 
 <h2>GitHub Stats</h2>
-<p><img src="https://fake.paltuhacker.com/sojib/GitHubStatus.svg" alt="GitHub Stats"></p>
+<a href="https://t.me/W8TeamSB"><img src="https://fake.paltuhacker.com/sojib/GitHubStatus.svg" alt="GitHub Stats"></p>
 
 
 <p>
